@@ -8,7 +8,7 @@ After installation, I tested persistence by saving files across sessions.
 Puppy Linux was chosen for its simplicity, speed, and compatibility with low-resource systems.
 
 
-*(Full installation steps with screenshots and explanations can be found in this PDF: [Download Puppy Linux Installation Report](puppy_linux_installation.pdf))*
+*(Full installation steps with screenshots and explanations can be found in this PDF: [Download Puppy Linux Installation Report](Puppy_linux_installation.pdf))*
 
 ## B. System Call – chmod()
 
