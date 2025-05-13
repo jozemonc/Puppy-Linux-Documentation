@@ -1,4 +1,4 @@
-# Puppy Linux Operating System Documentation 
+#  Operating System Puppy Linux Documentation 
 
 ## A. OS Installation
 This documentation explains how to install Puppy Linux using Oracle VirtualBox.  
